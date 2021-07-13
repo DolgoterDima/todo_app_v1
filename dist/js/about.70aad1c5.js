@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(o,t,e){"use strict";e.r(t);var n=e("7a23"),u={class:"about"},a=Object(n["i"])("h1",null,"This is an about page",-1),r=Object(n["i"])("p",null," routes is under protect. you can not enter on todo pagr (/todo) while you are not logged ",-1);function c(o,t){return Object(n["r"])(),Object(n["e"])("div",u,[a,r])}const i={};i.render=c;t["default"]=i}}]);
+//# sourceMappingURL=about.70aad1c5.js.map
